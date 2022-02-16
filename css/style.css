@@ -1,0 +1,32 @@
+.header{
+    display: inline-block;
+}
+.s-images{
+ width: 50%;
+ height: 500px;
+}
+.arrows{
+    color: royalblue;
+}
+.options{
+   padding-left: 1100px;
+}
+.p-image{
+    height: 300px;
+    border: 2px;
+    border-color: aqua;
+}
+#scrolling-img{
+    text-align: center;
+}
+#options{
+    padding-left: 40%;
+}
+#contact{
+    padding: 35px 15px;
+    text-align: center;
+}
+#footer{
+    padding-top: 10px;
+  text-align: center;
+}
