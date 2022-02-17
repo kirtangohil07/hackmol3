@@ -1,0 +1,62 @@
+.header{
+    display: inline-block;
+}
+.s-images{
+ width: 50%;
+ height: 500px;
+}
+.arrows{
+    color: royalblue;
+}
+.options{
+   padding-left: 1100px;
+}
+.p-image{
+    height: 300px;
+    border: 2px;
+    border-color: aqua;
+}
+#scrolling-img{
+    text-align: center;
+}
+#options{
+    padding-left: 40%;
+}
+#contact{
+    padding: 35px 15px;
+    text-align: center;
+}
+#footer{
+    padding-top: 10px;
+  text-align: center;
+}
+ body{
+     background-color: rgb(186, 231, 231);
+ }
+.carousel-item active{
+
+    font-family: 'Kaushan Script', 'cursive';
+    
+}
+.font{
+    font-family: 'Kaushan Script', 'cursive';
+
+}
+.navbar-brand{
+    color: brown;
+    font-family: 'Akaya Telivigala', cursive;
+font-family: 'Allura', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Syne Tactile', cursive;}
+
+#fontchange{
+    font-family: 'Akaya Telivigala', cursive;
+font-family: 'Allura', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Syne Tactile', cursive;
+}
+.colorchange{
+      text-decoration: dotted;
+}
